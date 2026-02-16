@@ -31,10 +31,11 @@ Here are some of the key projects I've been working on:
 
 <div align="center">
   <a href="https://leetcode.com/u/Sauravdani7/" target="_blank" rel="noopener noreferrer">
-  Leetcode
+  Leetcode 
 </a>
+  
   <a href="https://www.geeksforgeeks.org/profile/saurav0r7b?from=explore" target="_blank" rel="noopener noreferrer">
-  Geeks for Geeks
+   Geeks for Geeks
 </a>
 </div>
 
