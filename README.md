@@ -1,6 +1,6 @@
 # Hi there, I'm Saurav Dani! 👋
 
-### 👨‍💻 Data Scientist | Full Stack Developer | CDAC PG-DBDA Graduate
+### 👨‍💻 Data Scientist | Big Data Engineer
 
 Currently pursuing a **Post-Graduate Diploma in Big Data Analytics (PG-DBDA)** at **CDAC-ACTS, Pune**. I am a passionate developer bridging the gap between complex **Data Science** algorithms and interactive **Full Stack** applications. With a strong foundation in Python and Deep Learning, I build tools that visualize data and solve real-world problems.
 
