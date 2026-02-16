@@ -22,7 +22,7 @@ Here are some of the key projects I've been working on:
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **PG-DBDA Capstone:** [Financial Infrastructure Load Prediction](https://github.com/chandranshu23/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns) | Predictiv pipeline for bank transaction volumes handling over **24 Million records**. | PySpark, Hadoop, Hive, Linux, Deep Learning, Full Stack |
-| [Distributed Log Analysis System](https://github.com/sauravdani/Distributed-log-analyzer) | 	Scalable Big Data pipeline using Hadoop and PySpark to ingest and standardize unstructured logs from 16+ sources into a centralized Data Lake | Hadoop HDFS, PySpark, Python, Apache Airflow, Linux, Statistical Analysis. |
+| [Distributed Log Analysis System](https://github.com/sauravdani/Distributed-log-analyzer) | Scalable Big Data pipeline using Hadoop and PySpark to ingest and standardize unstructured logs from 16+ sources into a centralized Data Lake | Hadoop HDFS, PySpark, Python, Apache Airflow, Linux, Statistical Analysis. |
 | [Optimizing time and cost for EVs and using Multimodal transport](https://github.com/sauravdani/optimizing-time-and-cost-for-EVs-and-using-Multimodal-transport) | An EV path optimization technology using ML, API integration, made an interactive dashboard | Python, NLP, React, Arduino, DSA |
 | **[Media Analytics Dashboard](https://github.com/sauravdani/Frontend_dashboard_media)** | Interactive frontend dashboard for real-time media analytics and data visualization. | React, Vite |
 
