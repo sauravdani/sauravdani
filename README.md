@@ -33,14 +33,17 @@ Here are some of the key projects I've been working on:
   <a href="https://leetcode.com/u/Sauravdani7/" target="_blank" rel="noopener noreferrer">
   Leetcode
 </a>
+  <a href="https://www.geeksforgeeks.org/profile/saurav0r7b?from=explore" target="_blank" rel="noopener noreferrer">
+  Geeks for Geeks
+</a>
 </div>
 
 ---
 
 ### ⚡ Personal Interests
-* ☕ Coffee enthusiast
-* 💪 Calisthenics
-* 📚 Hindu Mythology & History
+* Coding
+* Geo politics
+* Reading
 
 ---
 
