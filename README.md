@@ -30,7 +30,7 @@ Here are some of the key projects I've been working on:
 ### ⚡ Stats
 
 <div align="center">
-  <a href="https://leetcode.com/u/Sauravdani7/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/Sauravdani7/" target="_blank">
   Leetcode 
 </a>
 </div>
