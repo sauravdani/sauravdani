@@ -6,23 +6,12 @@ I am a passionate developer bridging the gap between complex **Data Science** al
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Core:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data Science & AI:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=for-the-badge)
-
-**Web Development:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🛠️ My Tech Stack
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn, MLFlow, Optuna, Py-Torch, Sktime, Imblearn), Java, R, Shell Scripting
+* **Big Data:** Apache Spark (PySpark), Hadoop, Hive, Kafka
+* **Databases:** SQL (MySQL), NoSQL (MongoDB, Cassandra)
+* **AI/ML:** CNNs, DNA-Net, Signal Processing, Time Series, XGBoost, LightGBM, CatBoost
+* **Tools:** Git, Linux, Tableau
 
 ---
 
@@ -32,7 +21,7 @@ Here are some of the key projects I've been working on:
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Brain Tumor Analysis](https://github.com/sauravdani/Full_stack_Brain_Tumor_Analysis)** | AI-powered application for detecting brain tumors from MRI scans using Deep Learning. | Python, DL, Full Stack |
+| **PG-DBDA Capstone:** [Financial Infrastructure Load Prediction](https://github.com/chandranshu23/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns) | Predictive pipeline for bank transaction volumes. | PySpark, Hadoop, Hive, Full Stack |
 | **[Fraud Intelligence Data Mart](https://github.com/sauravdani)** | Extensive data mart project handling over **24 Million records** with 18 distinct features for fraud detection. | Big Data, SQL, ETL |
 | **[Fullstack NLP Suite](https://github.com/sauravdani/Fullstack-NLP)** | A comprehensive NLP tool handling Sentiment Analysis, NER, Text Classification, and Summarization. | Python, NLP, React |
 | **[Media Analytics Dashboard](https://github.com/sauravdani/Frontend_dashboard_media)** | Interactive frontend dashboard for real-time media analytics and data visualization. | React, Vite |
