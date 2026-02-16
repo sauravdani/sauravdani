@@ -27,11 +27,11 @@ Here are some of the key projects I've been working on:
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravdani&show_icons=true&theme=radical&count_private=true" height="150" alt="sauravdani's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravdani&layout=compact&theme=radical" height="150" alt="sauravdani's top languages" />
+  <a href="[Leetcode](https://leetcode.com/u/Sauravdani7/)">
+  </a>
 </div>
 
 ---
