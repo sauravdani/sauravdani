@@ -23,7 +23,7 @@ Here are some of the key projects I've been working on:
 | :--- | :--- | :--- |
 | **PG-DBDA Capstone:** [Financial Infrastructure Load Prediction](https://github.com/chandranshu23/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns) | Predictiv pipeline for bank transaction volumes handling over **24 Million records**. | PySpark, Hadoop, Hive, Deep Learning, Full Stack |
 | **[Fraud Intelligence Data Mart](https://github.com/sauravdani)** | Extensive data mart project handling over **24 Million records** with 18 distinct features for fraud detection. | Big Data, SQL, ETL |
-| **[Optimizing time and cost for EVs and using Multimodal transport (https://github.com/sauravdani/optimizing-time-and-cost-for-EVs-and-using-Multimodal-transport)** | An EV path optimization technology using ML, API integration, made an interactive dashboard | Python, NLP, React, Arduino, DSA |
+| **[Optimizing time and cost for EVs and using Multimodal transport]** (https://github.com/sauravdani/optimizing-time-and-cost-for-EVs-and-using-Multimodal-transport) | An EV path optimization technology using ML, API integration, made an interactive dashboard | Python, NLP, React, Arduino, DSA |
 | **[Media Analytics Dashboard](https://github.com/sauravdani/Frontend_dashboard_media)** | Interactive frontend dashboard for real-time media analytics and data visualization. | React, Vite |
 
 ---
