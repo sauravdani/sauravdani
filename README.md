@@ -33,8 +33,8 @@ Here are some of the key projects I've been working on:
   <a href="https://leetcode.com/u/Sauravdani7/" target="_blank">
   Leetcode 
 </a>
-<!-- </div>
-<div> -->
+</div>
+<div>
   <a href="https://www.geeksforgeeks.org/profile/saurav0r7b?from=explore" target="_blank">
    Geeks for Geeks
 </a>
